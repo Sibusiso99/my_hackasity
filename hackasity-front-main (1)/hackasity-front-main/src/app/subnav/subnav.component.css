@@ -1,0 +1,40 @@
+
+  .text-1 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 28;
+    font-family: Inter;
+    line-height: auto;
+    color: #141414;
+    padding-top: 40px;
+    font-weight: bold;
+  }
+  .line-2 {
+    width:100%;
+    text-align:left;
+    margin-left:0;
+  }
+
+  .text-2 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 28;
+    font-family: Inter;
+    line-height: auto;
+    color: #000000;
+    margin-left: 9.5%;
+    margin-top: 1%;
+    font-weight: bold;
+  }
+  
+  .input-row{
+    margin-top: -0.5%;
+  }
+  .input-row{
+    border: none;
+  }
+
+  select{
+    border: none;
+    padding: 10px;
+  }
